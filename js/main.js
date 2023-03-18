@@ -33,3 +33,9 @@ function smash (words) {
 
 
 
+// This code does not execute properly. Try to figure out why.
+
+
+function multiply(a, b){
+  product = a * b
+  return product}
