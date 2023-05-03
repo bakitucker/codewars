@@ -22,6 +22,9 @@ function isIsogram(str){
         if (arr[i] === arr[i+1]){
           return false
         }
+
+
+        
       }
       return true
     }
